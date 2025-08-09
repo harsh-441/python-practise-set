@@ -1,0 +1,1 @@
+print("apna college")
